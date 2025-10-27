@@ -36,5 +36,7 @@ U5 out plot_v1
 # Waveform
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/waveform.png?raw=true)
 # Conclusion
+The Buck Converter was successfully simulated using eSim, effectively stepping down the input voltage and verifying efficient DC-DC conversion.
 # Reference
+1. J. Shahsevani and R. Beiranvand, “Application-oriented review of the LLC-based resonant converters,” IEEE Access, vol. 12, pp. 52687–52726, 2024
 
