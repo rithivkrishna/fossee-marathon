@@ -4,3 +4,4 @@ A Buck Converter is a DC-DC step-down converter that efficiently reduces a highe
 # Reference Circuit Details
 The circuit diagram of the Buck Converter consists of a battery connected to a switch, inductor, diode, capacitor, and load resistor as shown in Fig 1. The switch, which may be a transistor or MOSFET, operates at a high switching frequency to control the energy flow from the input to the output. When the switch is ON, current flows from the battery through the inductor and the load, storing energy in the magnetic field of the inductor. When the switch is OFF, the inductor releases its stored energy through the diode, maintaining a continuous current through the load. The capacitor filters out voltage ripples, ensuring a smooth DC output. 
 # Reference Circuit Diagram 
+![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Reference%20image.jpeg?raw=true)
