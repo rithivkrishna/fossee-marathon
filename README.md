@@ -33,4 +33,8 @@ U3 Net-_D1-Pad2_ Net-_L1-Pad1_ plot_i2
 U5 out plot_v1
 .end
 </pre>
+# Waveform
+![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/waveform.png?raw=true)
+# Conclusion
+# Reference
 
