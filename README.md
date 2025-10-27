@@ -16,3 +16,20 @@ The circuit diagram of the Buck Converter consists of a battery connected to a s
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Analysis.png?raw=true)
 ## Device Modelling
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Device%20Modelling.png?raw=true)
+## Netlist 
+*
+.title KiCad schematic
+M1 in vsw Net-_D1-Pad2_ Net-_D1-Pad2_ eSim_MOS_N
+v2 vsw GND pulse
+U1 in plot_v1
+v1 in GND DC
+U2 vsw plot_v1
+C1 Net-_C1-Pad1_ GND 10u
+R1 GND out 500
+U4 Net-_C1-Pad1_ out plot_i2
+L1 Net-_L1-Pad1_ Net-_C1-Pad1_ 1.5m
+D1 GND Net-_D1-Pad2_ eSim_Diode
+U3 Net-_D1-Pad2_ Net-_L1-Pad1_ plot_i2
+U5 out plot_v1
+.end
+
