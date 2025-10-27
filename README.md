@@ -13,6 +13,6 @@ The circuit diagram of the Buck Converter consists of a battery connected to a s
 ## Source Details
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Source%20Details.png?raw=true)
 ## Transient Settings
-![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/reference%20waveform.png?raw=true)
+![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Analysis.png?raw=true)
 ## Device Modelling
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/Device%20Modelling.png?raw=true)
