@@ -1,11 +1,13 @@
 # fossee-marathon
 ## Table of Contents
 - [Abstact](#Abstact)
-- [Reference Circuit Details](#Reference Circuit Details)
-- [Circuit Diagram](#circuit-diagram)
+- [Reference Circuit Details](#Reference-Circuit-Details)
+- [Reference Circuit Diagram](#Reference-Circuit-Diagram)
+- [Device Modelling](#Device-Modelling)
 - [Netlist](#Netlist)
 - [Waveform](#Waveform)
 - [Conclusion](#Conclusion)
+- [Reference](#Reference)
 
 # Abstact
 A Buck Converter is a DC-DC step-down converter that efficiently reduces a higher input voltage to a lower output voltage without dissipating excess energy as heat, unlike voltage regulators or Zener diodes. It achieves this by increasing the output current while maintaining nearly the same power level through high-speed switching and energy transfer using inductive and capacitive elements. The converter regulates the output voltage by controlling the duration of energy storage and release, ensuring stable and efficient operation. Due to its high efficiency and reliability, it is widely used in power supply circuits, battery-powered devices, and embedded electronic systems.
