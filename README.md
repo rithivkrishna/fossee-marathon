@@ -8,4 +8,4 @@ The circuit diagram of the Buck Converter consists of a battery connected to a s
 # Reference Waveform 
 ![image alt](https://github.com/rithivkrishna/fossee-marathon/blob/main/reference%20waveform.png?raw=true)
 # Simulation using Esim
-# Schematic
+## Schematic
